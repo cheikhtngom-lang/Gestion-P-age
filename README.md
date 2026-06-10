@@ -8,7 +8,21 @@ Fort de **7 années d'expérience dans l'exploitation autoroutière** et de **3 
 
 ---
 
-## 🚀 À propos de moi
+## 🚀 À propos de moi:
+Gestionnaire Gare de Péage janvier 2019 – Septembre 2019 
+•	Supervision d'une équipe de [5] employés pour assurer la performance et l'efficacité des opérations.
+•	Gestion des plannings du personnel : congés, arrêts maladie, absences.
+•	Contrôle de la bonne application des procédures et rappel des consignes le cas échéant.
+•	Coordination des horaires et affectation du personnel aux tâches appropriées.
+•	Veille à l'application des règles de sécurité sur le site
+Chef de Gare Péage 2019 - 2022 
+•	Gestion des activités opérationnelles pour assurer une efficacité maximale.
+•	Supervision et coordination des activités opérationnelles pour optimiser les processus et l'efficacité.
+•	Collaboration étroite avec les équipes interfonctionnelles pour atteindre les objectifs organisationnels.
+•	Présentation des règles et des procédures à respecter, contrôle de leur mise en application.
+•	Rédaction de rapports d'activité, renseignement des supports de suivi, signalement des problématiques rencontrées et des actions correctives mises en place.
+•	Analyse des indicateurs clés de performance (KPI) pour identifier les domaines d'amélioration potentiels
+
 
 - 📊 Assistant Gestion des Données depuis 3 ans
 - 🛣️ 7 ans d'expérience dans l'exploitation autoroutière
@@ -101,9 +115,9 @@ Je souhaite continuer à renforcer mes compétences en :
 
 ## 📫 Contact
 
-- GitHub : https://github.com/votre-profil
-- LinkedIn : https://linkedin.com/in/votre-profil
-- Email : votre.email@exemple.com
+- GitHub : [https://github.com/votre-profil](https://github.com/cheikhtngom-lang/Gestion-P-age/edit/main/README.md)
+- LinkedIn : www.linkedin.com/in/cheikh-ngom-8851a4176
+- Email : cheikhtngom@gmail.com
 
 ---
 

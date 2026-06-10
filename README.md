@@ -62,7 +62,7 @@ Développement d'un tableau de bord permettant le suivi en temps réel des indic
 ---
 
 ### 📈 Analyse et Qualité des Données
-🔗 Lien : https://github.com/votre-profil/projet-data-quality
+🔗 Lien : [https://github.com/votre-profil/projet-data-quality](https://github.com/cheikhtngom-lang/Gestion-P-age/edit/main/README.md)
 
 Mise en place de contrôles de qualité des données afin d'améliorer la fiabilité des rapports et réduire les erreurs de traitement.
 

@@ -65,6 +65,8 @@ Chef de Gare Péage 2019 - 2022
 
 ### 📊 Tableau de Bord KPI Exploitation
 🔗 Lien : https://github.com/votre-profil/projet-kpi
+https://app.powerbi.com/links/y38JG8pZ4H?ctid=56a9888b-6e67-472a-9189-d062a679fe4f&pbi_source=linkShare
+https://app.powerbi.com/links/pqtdASKvJt?ctid=56a9888b-6e67-472a-9189-d062a679fe4f&pbi_source=linkShare
 
 Développement d'un tableau de bord permettant le suivi en temps réel des indicateurs clés d'exploitation et d'aide à la décision.
 
